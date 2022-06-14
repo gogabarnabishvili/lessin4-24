@@ -1,0 +1,16 @@
+.logo {
+    width: 130px;
+    margin: 10px;
+    vertical-align: middle;
+}
+nav {
+    display: inline-block;
+}
+.li-a {
+    display: inline-block;
+    margin: 10px 30px;
+    vertical-align: middle;
+}
+.active {
+    color: red;
+}
