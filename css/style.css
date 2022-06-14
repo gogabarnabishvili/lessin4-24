@@ -90,3 +90,30 @@ display: inline-block;
 .article-title {
     margin-left: 10px;
 }
+/* now star contact */
+.contact-section {
+
+    width: 1300px;
+    margin: 0 auto;
+}
+.left-conteiner {
+    /* width: 1200px;
+    margin: 40px auto; */
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 auto;
+}
+.contact-title {
+    font-size: 25px;
+}
+.contact {
+    color: rgb(75, 69, 69);
+}
+.contact-a {
+    color: black;
+}
+.map-box {
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 auto;
+}
