@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'BPG Nino Mtavruli Bold';
+    src: url('../foonts/bpg-nino-mtavruli-bold-webfont.eot'); /* IE9 Compat Modes */
+    src: url('../foonts/bpg-nino-mtavruli-bold-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../foonts/bpg-nino-mtavruli-bold-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../foonts/bpg-nino-mtavruli-bold-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../foonts/bpg-nino-mtavruli-bold-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../foonts/bpg-nino-mtavruli-bold-webfont.svg#bpg_nino_mtavrulibold') format('svg'); /* Legacy iOS */
+}
+@font-face {
+    font-family: 'Roboto';
+    src: url('../foonts/Roboto-BlackItalic_1.eot');
+    src: url('../foonts/Roboto-BlackItalic_1.eot?#iefix') format('embedded-opentype'),
+        url('../foonts/Roboto-BlackItalic_1.woff2') format('woff2'),
+        url('../foonts/Roboto-BlackItalic_1.woff') format('woff'),
+        url('../foonts/Roboto-BlackItalic_1.ttf') format('truetype'),
+        url('../foonts/Roboto-BlackItalic_1.svg#Roboto-BlackItalic') format('svg');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+

@@ -77,11 +77,15 @@ display: inline-block;
     width: 300px;
     margin: 10px;
 }
-.smoll-text {
-    font-family: "BPG Nino Mtavruli Bold", sans-serif;
+.small-text {
+    /* font-family: "BPG Nino Mtavruli Bold", sans-serif; */
+    font-family: 'BPG Nino Mtavruli Bold';
+
 }
 .big-text {
     padding-top: 10px;
+    /* font-family: 'Roboto', sans-serif; */
+    font-family: 'Roboto';
 }
 .article-title {
     margin-left: 10px;
