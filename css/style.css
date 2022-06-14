@@ -1,3 +1,6 @@
+img {
+    width: 500px;
+}
 .logo {
     width: 130px;
     margin: 10px;
@@ -13,4 +16,38 @@ nav {
 }
 .active {
     color: red;
+}
+.mineimg-div {
+    width: 1100px;
+    height: 700px;
+    margin: 0 auto;
+}
+.mine-img {
+    width: 1050px;
+}
+.two-box {
+    width: 850px;
+    margin: 0 auto;
+    padding: 10px;
+    
+}
+.left-box {
+width: 400px;
+background-color: rgb(133, 123, 123);
+display: inline-block;
+}
+.right-box {
+    width: 400px;
+    background-color: rgb(133, 123, 123);
+    display: inline-block;
+}
+.img-in {
+    width: 70px;
+    display: inline-block;
+    padding: 5px;
+}
+.text-in {
+    display: inline-block;
+    width: 300px;
+    padding: 5px;
 }
